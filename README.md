@@ -4,7 +4,7 @@
 </div>
 <h1 align="center"><b>Hi 👋, I'm Abdallah</b></h1>
 <h3 class="heading-element" dir="auto"> 👨🏻&zwj;💻 &nbsp;About Me </h3>
-I'm a computer science and Ai student who is passionate about Embedded Software.
+<b> I'm a computer science and Ai student who is passionate about Embedded Software.</b>
 <img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><b>
  - 🌱 I’m currently learning **Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.
 
