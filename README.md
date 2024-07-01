@@ -57,6 +57,6 @@
 <hr>
 <img src="https://camo.githubusercontent.com/ede97c03212c9582b08afc6d63b40d4b558f8416ee540db292c18b0f8e107528/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" data-canonical-src="https://imgur.com/rilHVxA.png" style="max-width: 100%;">
 <hr>
-<div justify-content="center" text-aline="center" align="center" font-family="Times" font-size="bolder" font-size="larger">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=29&pause=1000&random=false&width=435&lines=Thank+you+for+your+visit;Thanks+%2CDear!" alt="Typing SVG" /></a>
+<div justify-content="center" text-aline="center" align="center" font-family="" font-size="bolder">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=29&pause=1000&color=0963F7&random=false&width=435&lines=Thank+you+for+your+visit;Thanks%2C+Dear!" alt="Typing SVG" /></a>
 </div>
