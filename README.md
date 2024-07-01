@@ -2,10 +2,10 @@
 <div justify-content="center" text-aline="center" align="center">
 <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
-<h1 align="center">Hi 👋, I'm Abdallah</h1>
+<h1 align="center"><b>Hi 👋, I'm Abdallah</b></h1>
 <h3 class="heading-element" dir="auto"> 👨🏻&zwj;💻 &nbsp;About Me </h3>
 
-<img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><b>
  - 🌱 I’m currently learning **Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.**
 
 - 💬 Ask me about **Microcontrollers,Fundamentals Of(MCU)**
@@ -14,7 +14,7 @@
 <a href="https://www.eng.abdallah.sw@gmail.com" rel="nofollow">Gmail</a>
 
 - 📄 Know about my experiences (UnderWork)
-
+  <\a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div display="inline-block">
