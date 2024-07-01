@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
-
+<img align="right" alt="Github"<a>facebook.com</a> src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🌱 I’m currently learning **Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.**
 
 - 💬 Ask me about **Microcontrollers,Fundamentals Of(MCU)**
@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href=""facebook.com><img src="https://camo.githubusercontent.com/36abca4bcab1c9e2880505b22da85c7a7ab901dc58d159f31a1684685ec9af71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdallah-salah-900a2a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallah-salah-900a2a244" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012512075833&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012512075833&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.facebook.com/profile.php?id=100012512075833&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.facebook.com/profile.php?id=100012512075833&mibextid=zbwkwl" height="30" width="40" /></a>
