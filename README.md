@@ -1,5 +1,4 @@
-
-
+![Welcome GIF - Welcome - Discover   Share GIFs](https://github.com/Eng-AbdallahSalah/Abdallah-Salah_/assets/174293871/1cea6244-406f-4468-9065-25af23df2193)
 
 <h1 align="center">Hi 👋, I'm Abdallah</h1>
 <h3 align="center">Embedded Software Engineer</h3>
