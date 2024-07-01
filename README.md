@@ -6,7 +6,7 @@
 <h3 class="heading-element" dir="auto"> 👨🏻&zwj;💻 &nbsp;About Me </h3>
 I'm a computer science and Ai student who is passionate about Embedded Software.
 <img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><b>
- - 🌱 I’m currently learning **Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.**
+ - 🌱 I’m currently learning **Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.
 
 - 💬 Ask me about **Microcontrollers,Fundamentals Of(MCU)**
 
@@ -15,7 +15,7 @@ I'm a computer science and Ai student who is passionate about Embedded Software.
 
 - 📄 Know about my experiences (UnderWork)
   <\a>
-<h3 align="left">Connect with me:</h3>
+<h3 <p><u>Connect with me:</u></p></h3>
 <p align="left">
 <div display="inline-block">
 <a href="eng.abdallah.sw@gmail.com"><img display ="inline" src="https://camo.githubusercontent.com/36abca4bcab1c9e2880505b22da85c7a7ab901dc58d159f31a1684685ec9af71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;"></a>
@@ -37,9 +37,9 @@ I'm a computer science and Ai student who is passionate about Embedded Software.
 <li>
 <p dir="auto">⚙️ &nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a7125489e1797dfccceebd9b4669a098d22394ed1cd441e14913cfda30513d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974"><img src="https://camo.githubusercontent.com/8a7125489e1797dfccceebd9b4669a098d22394ed1cd441e14913cfda30513d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3751d9901eadd3e8ae4c56bda92bb37e09a0e8c5a787147a787b49e294512e50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3333333333333f7374796c653d666c6174266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234"><img src="https://camo.githubusercontent.com/3751d9901eadd3e8ae4c56bda92bb37e09a0e8c5a787147a787b49e294512e50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3333333333333f7374796c653d666c6174266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234" alt="Linux" data-canonical-src="https://img.shields.io/badge/-Linux-333333?style=flat&amp;logo=Linux&amp;logoColor=FCC624" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6771e2ed20e5967eac4363bf5d08ea6364388a2b52e24b4d884f538fd46d289/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/a6771e2ed20e5967eac4363bf5d08ea6364388a2b52e24b4d884f538fd46d289/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3751d9901eadd3e8ae4c56bda92bb37e09a0e8c5a787147a787b49e294512e50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3333333333333f7374796c653d666c6174266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234"><img src="https://camo.githubusercontent.com/3751d9901eadd3e8ae4c56bda92bb37e09a0e8c5a787147a787b49e294512e50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3333333333333f7374796c653d666c6174266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234" alt="Linux" data-canonical-src="https://img.shields.io/badge/-Linux-333333?style=flat&amp;logo=Linux&amp;logoColor=FCC624" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e792c861cfda991fb13d92dd4d0a1622ae8114dd853e907c924229c606a36a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e"><img src="https://camo.githubusercontent.com/e792c861cfda991fb13d92dd4d0a1622ae8114dd853e907c924229c606a36a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e" alt="Markdown" data-canonical-src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" style="max-width: 100%;"></a></p>
+</p>
 </li>
 <li>
 <p dir="auto">🔧 &nbsp;
