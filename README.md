@@ -1,5 +1,6 @@
-![Welcome GIF - Welcome - Discover   Share GIFs](https://github.com/Eng-AbdallahSalah/Abdallah-Salah_/assets/174293871/1cea6244-406f-4468-9065-25af23df2193)
-
+<div class="data" aline="center" justify-content="center" text-aline="center" display="inline-block" padding-left="30px" >
+<img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; data-target="animated-image.originalImage"> </div>
+    
 <h1 align="center">Hi 👋, I'm Abdallah</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
