@@ -14,7 +14,6 @@
 <a href="https://www.eng.abdallah.sw@gmail.com" rel="nofollow">Gmail</a>
 
 - 📄 Know about my experiences (UnderWork)
-  <\a>
 <h3 <p><u>Connect with me:</u></p></h3>
 <p align="left">
 <div display="inline-block">
