@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
-<img align="right" alt="Github"<a>facebook.com</a> src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🌱 I’m currently learning **Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.**
 
 - 💬 Ask me about **Microcontrollers,Fundamentals Of(MCU)**
