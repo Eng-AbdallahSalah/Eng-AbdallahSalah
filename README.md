@@ -55,7 +55,7 @@
 <p>&nbsp;<img  border-radius="2px" background-color="red" color="Red" src="https://github-readme-stats.vercel.app/api?username=eng-abdallahsalah&show_icons=true&locale=en" alt="eng-abdallahsalah" /></p>
 </div>
 <hr>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" width="469" height="58">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/821053e18f77d32e4a8b1db5bbf8eb6ffa49b7a1897bd23cb5d7cfefc60a317c/68747470733a2f2f696d6775722e636f6d2f72696c485678412e706e67" width="950px" height="58px">
 <hr>
 <div justify-content="center" text-aline="center" align="center" font-family="" font-size="bolder margin-top=5px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=times&weight=900&size=33&pause=1000&color=AF60F7&random=false&width=435&lines=Thank+you+for+your+visit;Thanks%2C+Dear!" alt="Typing SVG" /></a>    
