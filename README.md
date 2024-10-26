@@ -1,6 +1,6 @@
 <hr>
 <div justify-content="center" text-aline="center" align="center">
-<img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
 </div>
 <h1 align="center"><b>Hi 👋, I'm Abdallah</b></h1>
 <h3 class="heading-element" dir="auto"> 👨🏻&zwj;💻 &nbsp;About Me </h3>
